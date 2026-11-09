@@ -1,0 +1,20 @@
+# Venv & Python cache stuff
+.venv/
+venv
+__pycache__/
+*.pyc
+*.old
+test*
+
+# Models & Engines
+*.onnx
+*.pt
+*.engine
+*.torchscript
+yolov8*.pt
+
+# Whitelisted Custom Models 
+!models/
+!models/*.pt
+!models/*.engine
+!models/*.onnx

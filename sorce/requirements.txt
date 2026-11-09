@@ -1,0 +1,15 @@
+# --- AI & Vision Core ---
+ultralytics
+numpy>=1.26.0
+pandas
+opencv-python
+bettercam
+
+# --- System & Utilities ---
+keyboard
+setuptools
+pyserial
+pywin32
+pyyaml
+pygetwindow  
+termcolor
